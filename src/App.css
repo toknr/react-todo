@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  color: aliceblue;
 }
 
 .App-logo {
@@ -22,6 +23,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  font-size: 10px;
 }
 
 .App-link {
@@ -36,3 +38,4 @@
     transform: rotate(360deg);
   }
 }
+image追加
